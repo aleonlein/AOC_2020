@@ -1,6 +1,6 @@
 import requests
 
-def find_the_two_values(x,sum):
+def find_two_values(x,sum):
     inner_idx = 0
     outer_idx = -1
 
